@@ -311,23 +311,9 @@ With time I'll add more examples, namely:
 - Using the provided flow types
 
 
-## Some History
+## Reference
 
-In a [Trailblazer](http://trailblazer.to/) related project I had the task of creating an editing environment surrounding [bpmn-js](https://github.com/bpmn-io/bpmn-js) which was the first diagramming library we used. bpmn-js proved to be a feature rich library, but extending to add the features we wanted proved to be practically impossible, coupled with dwindling documentation. It's still a great option if you're not thinking of adding your own types of entities or swerving from the BPMN model at all.
+[Trailblazer](http://trailblazer.to/) 
+[react-diagrams](https://github.com/projectstorm/react-diagrams);
 
-After assessing many diagramming libraries available, my second go after bpmn-js was [react-diagrams](https://github.com/projectstorm/react-diagrams); which worked pretty well, had modern JS standards and was more extensible. However the source of truth (model) was scattered through many object's internal state and getting to the underlying data proved difficult in many scenarios.
-
-I was quite happy with the idea of using a time-tested open source library, but the options available left me making the decision to build an alternative. I hope it's useful for you!
-
-## Contributing
-
-TODO
-
-## Companies using React Flow Diagram
-
-<a href='http://trailblazer.to/'><img src='https://camo.githubusercontent.com/7a4c0bd3982e63dfdc47be5f66f58d9dd23d84bf/68747470733a2f2f692e696d6775722e636f6d2f3348556e5a74482e706e67' width='200' alt='TRAILBLAZER' /></a>
-
-## Sponsored by
-
-<a href='http://trailblazer.to/'><img src='https://camo.githubusercontent.com/7a4c0bd3982e63dfdc47be5f66f58d9dd23d84bf/68747470733a2f2f692e696d6775722e636f6d2f3348556e5a74482e706e67' width='200' alt='TRAILBLAZER' /></a>
 
